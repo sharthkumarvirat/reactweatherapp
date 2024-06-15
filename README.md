@@ -10,8 +10,8 @@ To run this app locally:-
 
 To run JSON server
 
--Step 1:- Open integrated terminal with database folder
--Step 2:- Run "npm json-server db.json --port 3000" (Json server gets started)
+- Step 1:- Open integrated terminal with database folder
+- Step 2:- Run "npm json-server db.json --port 3000" (Json server gets started)
 
 You can access all functionalities.
 
