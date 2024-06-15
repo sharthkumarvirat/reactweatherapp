@@ -1,8 +1,18 @@
-# React + Vite
+# React + Vite + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the weather App 
 
-Currently, two official plugins are available:
+To run this app locally:- 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Step 1:- Clone this repository to your local
+- Step 2:- Go to the project folder and enter "npm install" command in terminal
+- Step 3:- Run "npm run dev" command in terminal. (React server gets started)
+
+To run JSON server
+
+-Step 1:- Open integrated terminal with database folder
+-Step 2:- Run "npm json-server db.json --port 3000" (Json server gets started)
+
+You can access all functionalities.
+
+Thank you.
