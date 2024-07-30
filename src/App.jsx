@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter basename='/'>
+      <BrowserRouter basename='/reactweatherapp'>
         <Routes>
           <Route exact path="/" element={<Home search={search} setSearch={setSearch} />} />
           <Route exact path="/fav" element={<Favorites setSearch={setSearch} />} />
