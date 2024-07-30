@@ -3,6 +3,7 @@ import React from 'react'
 export default function Right({ data, iconMap, changeTemp }) {
 
   function extractFiveDaysWeather(data) {
+    
     const fiveDaysWeather = {};
 
     // Iterate through each data point
